@@ -307,7 +307,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'Tina', u'Tina Documentation',
+    (master_doc, 'tina', u'Tina Documentation',
      [author], 1)
 ]
 
